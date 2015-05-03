@@ -1,0 +1,6 @@
+{
+  "name": "my-app",
+  "require": {
+    "nesbot/carbon": "1.18.0"
+  }
+}
