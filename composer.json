@@ -1,6 +1,7 @@
 {
-  "name": "my-app",
-  "require": {
-    "nesbot/carbon": "1.18.0"
-  }
+    "name": "modess/deploy-test-application",
+    "type": "project",
+    "require": {
+        "nesbot/carbon": "^2.57"
+    }
 }
